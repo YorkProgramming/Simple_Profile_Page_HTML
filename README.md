@@ -1,1 +1,1 @@
-Simple profile page using Python and styled with CSS
+Simple profile page using HTML and styled with CSS
